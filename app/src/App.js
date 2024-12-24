@@ -2,9 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./App.css";
 import twitterLogo from "./assets/twitter-logo.svg";
 
-// Run with:
-// export NODE_OPTIONS=--openssl-legacy-provider npm run start
-
 // Constants
 const TWITTER_HANDLE = "_buildspace";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
